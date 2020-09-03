@@ -1,0 +1,4 @@
+#Sat Jul 11 17:10:30 CST 2020
+base.0=E\:\\code\\czcode\\Flutter\\project\\tenement_net\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
